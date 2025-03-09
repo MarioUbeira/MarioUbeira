@@ -1,7 +1,5 @@
 <div align="center">
 
----
-
 # Bienvenido a mi perfil de GitHub
 
 </div>
