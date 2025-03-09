@@ -1,9 +1,9 @@
 <div align="center">
 
-# Bienvenido a mi perfil de GitHub
+  <img src="img/GitHubBanner.gif" alt="GitHub Banner">
 
+  ---
 </div>
-
 
 Mi nombre es **Mario Ubeira** y soy un gran fan de la tecnología y las aplicaciones que esta puede tener en la vida real. Lo que más me interesa de este mundo es la forma en que la programación puede ayudarnos a mejorar nuestro día a día, ya sea ahorrándonos tareas repetitivas, apoyándonos, mediante el análisis de datos y la inteligencia artificial, a la hora de tomar decisiones, o facilitando tareas cotidianas. Estos son los principales problemas que trato de solventar con [mis proyectos](#mis-proyectos).
 
