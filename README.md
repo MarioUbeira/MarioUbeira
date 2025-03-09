@@ -5,7 +5,7 @@
 </div>
 
 
-Mi nombre es **Mario Ubeira** y soy un gran fan de la tecnología y las aplicaciones que esta puede tener en la vida real. Lo que más me interesa de este mundo es la forma en que la programación puede ayudarnos a mejorar nuestro día a día, ya sea facilitándonos [tareas repetitivas](#proyectos-de-automatización-de-tareas), apoyándonos en el [análisis de datos y la inteligencia artificial](#proyectos-de-ia) para ayudarnos a tomar decisiones, o mediante la creación de software que facilite [tareas cotidianas](#proyectos-de-tareas).
+Mi nombre es **Mario Ubeira** y soy un gran fan de la tecnología y las aplicaciones que esta puede tener en la vida real. Lo que más me interesa de este mundo es la forma en que la programación puede ayudarnos a mejorar nuestro día a día, ya sea ahorrándonos tareas repetitivas, apoyándonos, mediante el análisis de datos y la inteligencia artificial, a la hora de tomar decisiones, o facilitando tareas cotidianas. Estos son los principales problemas que trato de solventar con [mis proyectos](#mis-proyectos).
 
 Mi trayectoria como **desarrollador fullStack** comenzó en tercero de la ESO, cuando en las asignaturas de TICs y Tecnología empezamos a trabajar con software como Scratch y Arduino. El interés que despertó en mí este mundo me llevó, junto con dos compañeros, a presentar en la **Galiciencia 2017** un proyecto de reutilización del agua en viviendas que empleaba sensores con Arduino.
 
@@ -23,7 +23,7 @@ A lo largo de estos años programando, he explorado y trabajado con una gran var
 
 🎓 **Bachillerato de Ciencias y Tecnología** en **IES Pazo da Mercé**
 
-🎓 **CFGS DAW** *(Desarrollo de Aplicaciones Web)* en **IES de Teis**
+🎓 **CFGS DAW** *(Ciclo formativo de grado superior en Desarrollo de Aplicaciones Web)* en **IES de Teis**
 
 ⏳ Actualmente **CE IABD** *(Curso de Especialización en Inteligencia Artificial y Big Data)* en **IES de Teis**
 
@@ -38,7 +38,7 @@ A lo largo de estos años programando, he explorado y trabajado con una gran var
 | **Desarrollo Frontend**                        | ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **Frameworks y Librerías Web**                 | ![React](https://skillicons.dev/icons?i=react) ![Typescript](https://skillicons.dev/icons?i=ts) ![VUE](https://skillicons.dev/icons?i=vue) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![sass](https://skillicons.dev/icons?i=sass)                                                                                                                                                                                                                                                                                                           |
 | **Análisis de Datos e Inteligencia Artificial** | ![Python](https://skillicons.dev/icons?i=py) ![R](https://skillicons.dev/icons?i=r) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://skillicons.dev/icons?i=opencv) ![Pytorch](https://skillicons.dev/icons?i=pytorch) ![SKLearn](https://skillicons.dev/icons?i=sklearn) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width="45" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="45" height="45"> |
-| **Desarrollo Backend y Bases de Datos**        | ![PHP](https://skillicons.dev/icons?i=php) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Java](https://skillicons.dev/icons?i=java)                                                                                                                                                                                                                                                                                                                |
+| **Desarrollo Backend y Bases de Datos**        | ![PHP](https://skillicons.dev/icons?i=php) ![Java](https://skillicons.dev/icons?i=java) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql)                                                                                                                                                                                                                                                                                                               |
 | **Despliegue y Servidores**                    | ![Docker](https://skillicons.dev/icons?i=docker) ![Nginx](https://skillicons.dev/icons?i=nginx)                                                                                                                                                                                                                                                                                                                                                     |
 
 
@@ -48,32 +48,18 @@ A lo largo de estos años programando, he explorado y trabajado con una gran var
 
 </div>
 
-### Proyectos de automatización de tareas
-
   <p>
     <a href="https://github.com/MarioUbeira/Clasificador-de-imagenes-con-IA">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioUbeira&repo=Clasificador-de-imagenes-con-IA&theme=dark&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioUbeira&repo=Clasificador-de-imagenes-con-IA&theme=dark&hide_border=true"/>
     </a>
-  </p>
-  <p>
     <a href="https://github.com/MarioUbeira/Filter-exported-instagram-stories">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioUbeira&repo=Filter-exported-instagram-stories&theme=dark&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioUbeira&repo=Filter-exported-instagram-stories&theme=dark&hide_border=true"/>
     </a>
-  </p>
-
-### Proyectos de IA
-
-  <p>
     <a href="https://github.com/MarioUbeira/Running_Sneakers_Finder">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioUbeira&repo=Running_Sneakers_Finder&theme=dark&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioUbeira&repo=Running_Sneakers_Finder&theme=dark&hide_border=true"/>
     </a>
-  </p>
-
-### Proyectos de tareas
-
-  <p>
     <a href="https://github.com/MarioUbeira/Web-de-apuntes">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioUbeira&repo=Web-de-apuntes&theme=dark&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioUbeira&repo=Web-de-apuntes&theme=dark&hide_border=true"/>
     </a>
   </p>
 
