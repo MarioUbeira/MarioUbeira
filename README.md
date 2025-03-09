@@ -1,8 +1,11 @@
-<div style="display: flex; align-items: center; justify-content: center; margin: 40px 0;">
-  <div style="flex: 1; height: 2px; background: linear-gradient(to right, #9b1c31, #d4af37);"></div>
-  <p style="font-size: 28px; font-weight: bold; margin: 0 20px; text-align: center; letter-spacing: 1px;">Bienvenido a mi perfil de GitHub</p>
-  <div style="flex: 1; height: 2px; background: linear-gradient(to left, #9b1c31, #d4af37);"></div>
+<div align="center">
+
+---
+
+# Bienvenido a mi perfil de GitHub
+
 </div>
+
 
 Mi nombre es **Mario Ubeira** y soy un gran fan de la tecnología y las aplicaciones que esta puede tener en la vida real. Lo que más me interesa de este mundo es la forma en que la programación puede ayudarnos a mejorar nuestro día a día, ya sea facilitándonos [tareas repetitivas](#proyectos-de-automatización-de-tareas), apoyándonos en el [análisis de datos y la inteligencia artificial](#proyectos-de-ia) para ayudarnos a tomar decisiones, o mediante la creación de software que facilite [tareas cotidianas](#proyectos-de-tareas).
 
@@ -14,10 +17,10 @@ A lo largo de estos años programando, he explorado y trabajado con una gran var
 
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=mario92739&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/mario92739)
 
-<div style="display: flex; align-items: center; justify-content: center; margin: 40px 0;">
-  <div style="flex: 1; height: 2px; background: linear-gradient(to right, #9b1c31, #d4af37);"></div>
-  <p style="font-size: 22px; font-weight: bold; margin: 0 20px; text-align: center; letter-spacing: 1px;">Formación académica</p>
-  <div style="flex: 1; height: 2px; background: linear-gradient(to left, #9b1c31, #d4af37);"></div>
+<div align="center">
+
+## Formación académica
+
 </div>
 
 🎓 **Bachillerato de Ciencias y Tecnología** en **IES Pazo da Mercé**
@@ -26,10 +29,10 @@ A lo largo de estos años programando, he explorado y trabajado con una gran var
 
 ⏳ Actualmente **CE IABD** *(Curso de Especialización en Inteligencia Artificial y Big Data)* en **IES de Teis**
 
-<div style="display: flex; align-items: center; justify-content: center; margin: 40px 0;">
-  <div style="flex: 1; height: 2px; background: linear-gradient(to right, #9b1c31, #d4af37);"></div>
-  <p style="font-size: 22px; font-weight: bold; margin: 0 20px; text-align: center; letter-spacing: 1px;">Habilidades y tecnologías</p>
-  <div style="flex: 1; height: 2px; background: linear-gradient(to left, #9b1c31, #d4af37);"></div>
+<div align="center">
+
+## Habilidades y tecnologías
+
 </div>
 
 | **Categoría**                                  | **Herramientas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
@@ -40,10 +43,11 @@ A lo largo de estos años programando, he explorado y trabajado con una gran var
 | **Desarrollo Backend y Bases de Datos**        | ![PHP](https://skillicons.dev/icons?i=php) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Java](https://skillicons.dev/icons?i=java)                                                                                                                                                                                                                                                                                                                |
 | **Despliegue y Servidores**                    | ![Docker](https://skillicons.dev/icons?i=docker) ![Nginx](https://skillicons.dev/icons?i=nginx)                                                                                                                                                                                                                                                                                                                                                     |
 
-<div style="display: flex; align-items: center; justify-content: center; margin: 40px 0;">
-  <div style="flex: 1; height: 2px; background: linear-gradient(to right, #9b1c31, #d4af37);"></div>
-  <p style="font-size: 22px; font-weight: bold; margin: 0 20px; text-align: center; letter-spacing: 1px;">Mis proyectos</p>
-  <div style="flex: 1; height: 2px; background: linear-gradient(to left, #9b1c31, #d4af37);"></div>
+
+<div align="center">
+
+## Mis proyectos
+
 </div>
 
 ### Proyectos de automatización de tareas
@@ -76,10 +80,10 @@ A lo largo de estos años programando, he explorado y trabajado con una gran var
   </p>
 
 
-<div style="display: flex; align-items: center; justify-content: center; margin: 40px 0;">
-  <div style="flex: 1; height: 2px; background: linear-gradient(to right, #9b1c31, #d4af37);"></div>
-  <p style="font-size: 22px; font-weight: bold; margin: 0 20px; text-align: center; letter-spacing: 1px;">Mis estadísticas</p>
-  <div style="flex: 1; height: 2px; background: linear-gradient(to left, #9b1c31, #d4af37);"></div>
+<div align="center">
+
+## Mis estadísticas
+
 </div>
 
 <table border="0" align="center">
@@ -100,17 +104,18 @@ A lo largo de estos años programando, he explorado y trabajado con una gran var
 </tr>
 </table>
 
-<div style="display: flex; align-items: center; justify-content: center; margin: 40px 0;">
-  <div style="flex: 1; height: 2px; background: linear-gradient(to right, #9b1c31, #d4af37);"></div>
-  <p style="font-size: 22px; font-weight: bold; margin: 0 20px; text-align: center; letter-spacing: 1px;">Contacto</p>
-  <div style="flex: 1; height: 2px; background: linear-gradient(to left, #9b1c31, #d4af37);"></div>
+<div align="center">
+
+## Contacto
+
 </div>
 
-<p style="text-align: center;">
-  <a href="mailto:mario@ubeira.es"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 15px;"/></a>
-  <a href="https://github.com/MarioUbeira"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 15px;"/></a>
-  <a href="https://www.linkedin.com/in/mario-ubeira-gonzález-050254234/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 15px;"/></a>
-  <a href="https://discord.com/users/marioy3k"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-right: 15px;"/></a>
+<p align="center">
+  <a href="mailto:mario@ubeira.es"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MarioUbeira"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mario-ubeira-gonzález-050254234/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/marioy3k"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
+
 
 
