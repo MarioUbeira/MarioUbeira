@@ -5,15 +5,7 @@
   ---
 </div>
 
-Mi nombre es **Mario Ubeira** y soy un gran fan de la tecnología y las aplicaciones que esta puede tener en la vida real. Lo que más me interesa de este mundo es la forma en que la programación puede ayudarnos a mejorar nuestro día a día, ya sea ahorrándonos tareas repetitivas, apoyándonos, mediante el análisis de datos y la inteligencia artificial, a la hora de tomar decisiones, o facilitando tareas cotidianas. Estos son los principales problemas que trato de solventar con [mis proyectos](#mis-proyectos).
-
-Mi trayectoria como **desarrollador fullStack** comenzó en tercero de la ESO, cuando en las asignaturas de TICs y Tecnología empezamos a trabajar con software como Scratch y Arduino. El interés que despertó en mí este mundo me llevó, junto con dos compañeros, a presentar en la **Galiciencia 2017** un proyecto de reutilización del agua en viviendas que empleaba sensores con Arduino.
-
-Durante mis años en el bachillerato tecnológico, empezamos a estudiar lenguajes de programación como HTML, CSS, C, C++, Java y mBlock, lo que nos permitió dar nuestros primeros pasos en la lógica detrás de la programación de robots simples. Todo esto me impulsó a estudiar y graduarme en el ciclo superior de desarrollo de aplicaciones web y, actualmente, cursar una especialización en inteligencia artificial y big data.
-
-A lo largo de estos años programando, he explorado y trabajado con una gran variedad de tecnologías, pues me encanta investigar y expandir mis conocimientos. Mi objetivo es seguir desarrollando proyectos que tengan utilidad real en el día a día a través de la automatización, la inteligencia artificial y el desarrollo de software útil. Estoy siempre abierto a nuevos desafíos que me permitan seguir aprendiendo y creciendo.
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=mario92739&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/mario92739)
+Inicié mi camino en el desarrollo de software en la ESO trabajando con Scratch, mblock y Arduino. Participé en un proyecto para la Galiciencia de reutilización del agua con un sistema Arduino en 2017 que me impulsó a formarme en desarrollo web. Hoy, me especializo en inteligencia artificial y big data, combinando ganas de aprender con pasión por resolver problemas reales gracias a la programación.
 
 <div align="center">
 
@@ -41,6 +33,26 @@ A lo largo de estos años programando, he explorado y trabajado con una gran var
 | **Desarrollo Backend y Bases de Datos**        | ![PHP](https://skillicons.dev/icons?i=php) ![Java](https://skillicons.dev/icons?i=java) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql)                                                                                                                                                                                                                                                                                                               |
 | **Despliegue y Servidores**                    | ![Docker](https://skillicons.dev/icons?i=docker) ![Nginx](https://skillicons.dev/icons?i=nginx)                                                                                                                                                                                                                                                                                                                                                     |
 
+
+<div align="center">
+
+## Mi trayectoria
+
+</div>
+
+Mi nombre es **Mario Ubeira** y soy un gran fan de la tecnología y las aplicaciones que esta puede tener en la vida real. Lo que más me interesa de este mundo es la forma en que la programación puede ayudarnos a mejorar nuestro día a día, ya sea ahorrándonos tareas repetitivas, apoyándonos, mediante el análisis de datos y la inteligencia artificial, a la hora de tomar decisiones, o facilitando tareas cotidianas. Estos son los principales problemas que trato de solventar con [mis proyectos](#mis-proyectos).
+
+Mi trayectoria como **desarrollador fullStack** comenzó en tercero de la ESO, cuando en las asignaturas de TICs y Tecnología empezamos a trabajar con software como Scratch y Arduino. El interés que despertó en mí este mundo me llevó, junto con dos compañeros, a presentar en la **Galiciencia 2017** un proyecto de reutilización del agua en viviendas que empleaba sensores con Arduino.
+
+Durante mis años en el bachillerato tecnológico, empezamos a estudiar lenguajes de programación como HTML, CSS, C, C++, Java y mBlock, lo que nos permitió dar nuestros primeros pasos en la lógica detrás de la programación de robots simples. Todo esto me impulsó a estudiar y graduarme en el ciclo superior de desarrollo de aplicaciones web y, actualmente, cursar una especialización en inteligencia artificial y big data.
+
+A lo largo de estos años programando, he explorado y trabajado con una gran variedad de tecnologías, pues me encanta investigar y expandir mis conocimientos. Mi objetivo es seguir desarrollando proyectos que tengan utilidad real en el día a día a través de la automatización, la inteligencia artificial y el desarrollo de software útil. Estoy siempre abierto a nuevos desafíos que me permitan seguir aprendiendo y creciendo.
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=mario92739&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/mario92739)
+
+</div>
 
 <div align="center">
 
