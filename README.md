@@ -1,7 +1,6 @@
 <div align="center">
 
-  <img src="img/GitHubBanner.gif" alt="GitHub Banner">
-
+  MARIO UBEIRA GONZÁLEZ
   ---
 </div>
 
@@ -66,9 +65,6 @@ A lo largo de estos años programando, he explorado y trabajado con una gran var
     </a>
     <a href="https://github.com/MarioUbeira/Filter-exported-instagram-stories">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioUbeira&repo=Filter-exported-instagram-stories&theme=dark&hide_border=true"/>
-    </a>
-    <a href="https://github.com/MarioUbeira/Running_Sneakers_Finder">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioUbeira&repo=Running_Sneakers_Finder&theme=dark&hide_border=true"/>
     </a>
     <a href="https://github.com/MarioUbeira/Web-de-apuntes">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarioUbeira&repo=Web-de-apuntes&theme=dark&hide_border=true"/>
